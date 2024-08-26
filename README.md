@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fynn-Pritzkau
 - 👀 I’m interested in coding and gaming 
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Open Source Javca Projects 
+- 💞️ I’m looking to collaborate on Open Source Java Projects 
 - 📫 How to reach me: Fynnpritzkau@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
